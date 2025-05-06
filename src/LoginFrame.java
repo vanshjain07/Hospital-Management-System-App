@@ -29,7 +29,7 @@ public class LoginFrame extends JFrame {
         add(usernameLabel);
         add(usernameField);
         add(passwordLabel);
-        add(passwordField);
+        add(passwordField);//user
         add(new JLabel()); // empty cell
         add(loginButton);
 
