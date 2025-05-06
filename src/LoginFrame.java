@@ -15,7 +15,7 @@ public class LoginFrame extends JFrame {
         setTitle("Hospital Management System - Login");
         setSize(300, 200);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setLocationRelativeTo(null);
+        setLocationRelativeTo(null); //timepass 
 
         // Create UI components
         JLabel usernameLabel = new JLabel("Username:");
